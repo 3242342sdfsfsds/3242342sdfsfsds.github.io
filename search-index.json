@@ -1,0 +1,137 @@
+[
+  {
+    "id": "black-oversized-hoodie",
+    "slug": "black-oversized-hoodie",
+    "name": "Худі оверсайз чорне",
+    "category": "hoodies",
+    "gender": "women",
+    "collections": [
+      "fw26",
+      "new"
+    ],
+    "price": 3200,
+    "currency": "UAH",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "black",
+      "white"
+    ],
+    "colorCount": 2,
+    "images": []
+  },
+  {
+    "id": "linen-trousers-beige",
+    "slug": "linen-trousers-beige",
+    "name": "Штани льняні бежеві",
+    "category": "trousers",
+    "gender": "women",
+    "collections": [
+      "fw26",
+      "new"
+    ],
+    "price": 2800,
+    "currency": "UAH",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "beige",
+      "black"
+    ],
+    "colorCount": 2,
+    "images": [
+      "/images/products/black-oversized-hoodie/1.jpg",
+      "/images/products/black-oversized-hoodie/4.jpg"
+    ]
+  },
+  {
+    "id": "mens-oversized-tshirt",
+    "slug": "mens-oversized-tshirt",
+    "name": "Футболка оверсайз мій тест",
+    "category": "tshirts",
+    "gender": "men",
+    "collections": [
+      "fw26",
+      "new"
+    ],
+    "price": 1400,
+    "currency": "UAH",
+    "sizes": [
+      "M"
+    ],
+    "colors": [
+      "white",
+      "black",
+      "grey"
+    ],
+    "colorCount": 3,
+    "images": [
+      "/images/products/black-oversized-hoodie/1.jpg",
+      "/images/products/black-oversized-hoodie/4.jpg"
+    ]
+  },
+  {
+    "id": "mens-straight-trousers",
+    "slug": "mens-straight-trousers",
+    "name": "Штани прямі чорні",
+    "category": "trousers",
+    "gender": "men",
+    "collections": [
+      "fw26",
+      "new"
+    ],
+    "price": 2600,
+    "currency": "UAH",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "black",
+      "charcoal"
+    ],
+    "colorCount": 2,
+    "images": [
+      "/images/products/black-oversized-hoodie/1.jpg",
+      "/images/products/black-oversized-hoodie/4.jpg"
+    ]
+  },
+  {
+    "id": "oversized-blazer-white",
+    "slug": "oversized-blazer-white",
+    "name": "Піджак оверсайз білий",
+    "category": "jackets",
+    "gender": "women",
+    "collections": [
+      "fw26"
+    ],
+    "price": 5400,
+    "currency": "UAH",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "white",
+      "black"
+    ],
+    "colorCount": 2,
+    "images": [
+      "/images/products/black-oversized-hoodie/4.jpg"
+    ]
+  }
+]
