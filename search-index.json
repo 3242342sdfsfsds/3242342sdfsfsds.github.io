@@ -1,123 +1,64 @@
 [
   {
-    "id": "black-oversized-hoodie",
-    "slug": "black-oversized-hoodie",
-    "name": "Худі оверсайз чорне",
-    "category": "hoodies",
+    "id": "antratsitovi-dzhinsi-iz-visokoyu-talieyu",
+    "slug": "antratsitovi-dzhinsi-iz-visokoyu-talieyu",
+    "name": "Антрацитові Джинси із Високою Талією",
+    "category": "jeans",
     "gender": "women",
     "collections": [
-      "fw26",
       "new"
     ],
-    "price": 3200,
+    "price": 1742,
     "currency": "UAH",
     "sizes": [
-      "XS",
-      "S",
-      "M",
-      "L",
-      "XL"
+      "32",
+      "34",
+      "36",
+      "38",
+      "40",
+      "42"
     ],
-    "colors": [
-      "black",
-      "white"
-    ],
-    "colorCount": 2,
-    "images": []
-  },
-  {
-    "id": "linen-trousers-beige",
-    "slug": "linen-trousers-beige",
-    "name": "Штани льняні бежеві",
-    "category": "trousers",
-    "gender": "women",
-    "collections": [
-      "fw26",
-      "new"
-    ],
-    "price": 2800,
-    "currency": "UAH",
-    "sizes": [
-      "XS",
-      "S",
-      "M",
-      "L"
-    ],
-    "colors": [
-      "beige",
-      "black"
-    ],
-    "colorCount": 2,
+    "colors": [],
+    "colorCount": 0,
     "images": [
-      "/images/products/black-oversized-hoodie/1.jpg",
-      "/images/products/black-oversized-hoodie/4.jpg"
+      "/images/products/antratsitovi-dzhinsi-iz-visokoyu-talieyu/1.jpg",
+      "/images/products/antratsitovi-dzhinsi-iz-visokoyu-talieyu/2.jpg"
     ]
   },
   {
-    "id": "mens-oversized-tshirt",
-    "slug": "mens-oversized-tshirt",
-    "name": "Футболка оверсайз мій тест",
+    "id": "antratsitovi-dzhinsi-shavi",
+    "slug": "antratsitovi-dzhinsi-shavi",
+    "name": "Антрацитові Джинси Шаві",
+    "category": "jeans",
+    "gender": "women",
+    "collections": [
+      "new"
+    ],
+    "price": 1918,
+    "currency": "UAH",
+    "sizes": [
+      "34",
+      "36",
+      "38",
+      "40"
+    ],
+    "colors": [],
+    "colorCount": 0,
+    "images": [
+      "/images/products/antratsitovi-dzhinsi-shavi/1.jpg",
+      "/images/products/antratsitovi-dzhinsi-shavi/2.jpg"
+    ]
+  },
+  {
+    "id": "bezheva-futbolka",
+    "slug": "bezheva-futbolka",
+    "name": "Бежева Футболка",
     "category": "tshirts",
-    "gender": "men",
-    "collections": [
-      "fw26",
-      "new"
-    ],
-    "price": 1400,
-    "currency": "UAH",
-    "sizes": [
-      "M"
-    ],
-    "colors": [
-      "white",
-      "black",
-      "grey"
-    ],
-    "colorCount": 3,
-    "images": [
-      "/images/products/black-oversized-hoodie/1.jpg",
-      "/images/products/black-oversized-hoodie/4.jpg"
-    ]
-  },
-  {
-    "id": "mens-straight-trousers",
-    "slug": "mens-straight-trousers",
-    "name": "Штани прямі чорні",
-    "category": "trousers",
-    "gender": "men",
-    "collections": [
-      "fw26",
-      "new"
-    ],
-    "price": 2600,
-    "currency": "UAH",
-    "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "XXL"
-    ],
-    "colors": [
-      "black",
-      "charcoal"
-    ],
-    "colorCount": 2,
-    "images": [
-      "/images/products/black-oversized-hoodie/1.jpg",
-      "/images/products/black-oversized-hoodie/4.jpg"
-    ]
-  },
-  {
-    "id": "oversized-blazer-white",
-    "slug": "oversized-blazer-white",
-    "name": "Піджак оверсайз білий",
-    "category": "jackets",
     "gender": "women",
     "collections": [
-      "fw26"
+      "new"
     ],
-    "price": 5400,
+    "price": 604,
     "currency": "UAH",
     "sizes": [
       "XS",
@@ -125,13 +66,443 @@
       "M",
       "L"
     ],
-    "colors": [
-      "white",
-      "black"
-    ],
-    "colorCount": 2,
+    "colors": [],
+    "colorCount": 0,
     "images": [
-      "/images/products/black-oversized-hoodie/4.jpg"
+      "/images/products/bezheva-futbolka/1.jpg",
+      "/images/products/bezheva-futbolka/2.jpg"
+    ]
+  },
+  {
+    "id": "bili-dzhinsi-iz-visokoyu-talieyu",
+    "slug": "bili-dzhinsi-iz-visokoyu-talieyu",
+    "name": "Білі Джинси із Високою Талією",
+    "category": "jeans",
+    "gender": "women",
+    "collections": [
+      "new"
+    ],
+    "price": 1821,
+    "currency": "UAH",
+    "sizes": [
+      "34",
+      "36",
+      "38",
+      "40"
+    ],
+    "colors": [],
+    "colorCount": 0,
+    "images": [
+      "/images/products/bili-dzhinsi-iz-visokoyu-talieyu/1.jpg",
+      "/images/products/bili-dzhinsi-iz-visokoyu-talieyu/2.jpg"
+    ]
+  },
+  {
+    "id": "bordova-prozora-bluzka",
+    "slug": "bordova-prozora-bluzka",
+    "name": "Бордова Прозора Блузка",
+    "category": "blouse",
+    "gender": "women",
+    "collections": [
+      "new"
+    ],
+    "price": 775,
+    "currency": "UAH",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [],
+    "colorCount": 0,
+    "images": [
+      "/images/products/bordova-prozora-bluzka/1.jpg",
+      "/images/products/bordova-prozora-bluzka/2.jpg"
+    ]
+  },
+  {
+    "id": "chorna-futbolka",
+    "slug": "chorna-futbolka",
+    "name": "Чорна Футболка",
+    "category": "tshirts",
+    "gender": "women",
+    "collections": [
+      "new"
+    ],
+    "price": 802,
+    "currency": "UAH",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [],
+    "colorCount": 0,
+    "images": [
+      "/images/products/chorna-futbolka/1.jpg",
+      "/images/products/chorna-futbolka/2.jpg"
+    ]
+  },
+  {
+    "id": "chorna-futbolka-dyubi",
+    "slug": "chorna-futbolka-dyubi",
+    "name": "Чорна Футболка Дьюбі",
+    "category": "tshirts",
+    "gender": "women",
+    "collections": [
+      "new"
+    ],
+    "price": 802,
+    "currency": "UAH",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [],
+    "colorCount": 0,
+    "images": [
+      "/images/products/chorna-futbolka-dyubi/1.jpg",
+      "/images/products/chorna-futbolka-dyubi/2.jpg"
+    ]
+  },
+  {
+    "id": "chorniy-bazoviy-krop-top",
+    "slug": "chorniy-bazoviy-krop-top",
+    "name": "Чорний Базовий Кроп-Топ",
+    "category": "tops",
+    "gender": "women",
+    "collections": [
+      "new"
+    ],
+    "price": 740,
+    "currency": "UAH",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [],
+    "colorCount": 0,
+    "images": [
+      "/images/products/chorniy-bazoviy-krop-top/1.jpg",
+      "/images/products/chorniy-bazoviy-krop-top/2.jpg"
+    ]
+  },
+  {
+    "id": "korichneva-prozora-bluzka",
+    "slug": "korichneva-prozora-bluzka",
+    "name": "Коричнева Прозора Блузка",
+    "category": "blouse",
+    "gender": "women",
+    "collections": [
+      "new"
+    ],
+    "price": 775,
+    "currency": "UAH",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [],
+    "colorCount": 0,
+    "images": [
+      "/images/products/korichneva-prozora-bluzka/1.jpg",
+      "/images/products/korichneva-prozora-bluzka/2.jpg"
+    ]
+  },
+  {
+    "id": "korichnevi-dzhinsi",
+    "slug": "korichnevi-dzhinsi",
+    "name": "Коричневі Джинси",
+    "category": "jeans",
+    "gender": "women",
+    "collections": [
+      "new"
+    ],
+    "price": 1822,
+    "currency": "UAH",
+    "sizes": [
+      "34",
+      "36",
+      "38",
+      "40"
+    ],
+    "colors": [],
+    "colorCount": 0,
+    "images": [
+      "/images/products/korichnevi-dzhinsi/1.jpg",
+      "/images/products/korichnevi-dzhinsi/2.jpg"
+    ]
+  },
+  {
+    "id": "krizhani-dzhinsi-detali-visoka-posadka",
+    "slug": "krizhani-dzhinsi-detali-visoka-posadka",
+    "name": "Крижані Джинси Деталі Висока-Посадка",
+    "category": "jeans",
+    "gender": "women",
+    "collections": [
+      "new"
+    ],
+    "price": 1780,
+    "currency": "UAH",
+    "sizes": [
+      "34",
+      "36",
+      "38",
+      "40"
+    ],
+    "colors": [],
+    "colorCount": 0,
+    "images": [
+      "/images/products/krizhani-dzhinsi-detali-visoka-posadka/1.jpg",
+      "/images/products/krizhani-dzhinsi-detali-visoka-posadka/2.jpg"
+    ]
+  },
+  {
+    "id": "krizhano-blakitni-dzhinsi-z-visokoyu-talieyu",
+    "slug": "krizhano-blakitni-dzhinsi-z-visokoyu-talieyu",
+    "name": "Крижано-блакитні Джинси з Високою Талією",
+    "category": "jeans",
+    "gender": "women",
+    "collections": [
+      "new"
+    ],
+    "price": 1886,
+    "currency": "UAH",
+    "sizes": [
+      "34",
+      "36",
+      "38",
+      "40"
+    ],
+    "colors": [],
+    "colorCount": 0,
+    "images": [
+      "/images/products/krizhano-blakitni-dzhinsi-z-visokoyu-talieyu/1.jpg",
+      "/images/products/krizhano-blakitni-dzhinsi-z-visokoyu-talieyu/2.jpg"
+    ]
+  },
+  {
+    "id": "sini-dzhinsi-iz-visokoyu-talieyu",
+    "slug": "sini-dzhinsi-iz-visokoyu-talieyu",
+    "name": "Сині Джинси із Високою Талією",
+    "category": "jeans",
+    "gender": "women",
+    "collections": [
+      "new"
+    ],
+    "price": 1889,
+    "currency": "UAH",
+    "sizes": [
+      "34",
+      "36",
+      "38",
+      "40"
+    ],
+    "colors": [],
+    "colorCount": 0,
+    "images": [
+      "/images/products/sini-dzhinsi-iz-visokoyu-talieyu/1.jpg",
+      "/images/products/sini-dzhinsi-iz-visokoyu-talieyu/2.jpg"
+    ]
+  },
+  {
+    "id": "sini-dzhinsi-iz-visokoyu-talieyu-poterti",
+    "slug": "sini-dzhinsi-iz-visokoyu-talieyu-poterti",
+    "name": "Сині Джинси із Високою Талією Потерті",
+    "category": "jeans",
+    "gender": "women",
+    "collections": [
+      "new"
+    ],
+    "price": 1964,
+    "currency": "UAH",
+    "sizes": [
+      "34",
+      "36",
+      "38",
+      "40"
+    ],
+    "colors": [],
+    "colorCount": 0,
+    "images": [
+      "/images/products/sini-dzhinsi-iz-visokoyu-talieyu-poterti/1.jpg",
+      "/images/products/sini-dzhinsi-iz-visokoyu-talieyu-poterti/2.jpg"
+    ]
+  },
+  {
+    "id": "sini-dzhinsi-iz-visokoyu-talieyu-ta-gudzikami",
+    "slug": "sini-dzhinsi-iz-visokoyu-talieyu-ta-gudzikami",
+    "name": "Сині Джинси із Високою Талією та Гудзиками",
+    "category": "jeans",
+    "gender": "women",
+    "collections": [
+      "new"
+    ],
+    "price": 1780,
+    "currency": "UAH",
+    "sizes": [
+      "34",
+      "36",
+      "38",
+      "40"
+    ],
+    "colors": [],
+    "colorCount": 0,
+    "images": [
+      "/images/products/sini-dzhinsi-iz-visokoyu-talieyu-ta-gudzikami/1.jpg",
+      "/images/products/sini-dzhinsi-iz-visokoyu-talieyu-ta-gudzikami/2.jpg"
+    ]
+  },
+  {
+    "id": "sini-dzhinsi-z-visokoyu-talieyu",
+    "slug": "sini-dzhinsi-z-visokoyu-talieyu",
+    "name": "Сині Джинси з Високою Талією",
+    "category": "jeans",
+    "gender": "women",
+    "collections": [
+      "new"
+    ],
+    "price": 1886,
+    "currency": "UAH",
+    "sizes": [
+      "34",
+      "36",
+      "38",
+      "40"
+    ],
+    "colors": [],
+    "colorCount": 0,
+    "images": [
+      "/images/products/sini-dzhinsi-z-visokoyu-talieyu/1.jpg",
+      "/images/products/sini-dzhinsi-z-visokoyu-talieyu/2.jpg"
+    ]
+  },
+  {
+    "id": "siriy-krop-top-na-bretelkakh",
+    "slug": "siriy-krop-top-na-bretelkakh",
+    "name": "Сірий Кроп-Топ на Бретельках",
+    "category": "tops",
+    "gender": "women",
+    "collections": [
+      "new"
+    ],
+    "price": 649,
+    "currency": "UAH",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [],
+    "colorCount": 0,
+    "images": [
+      "/images/products/siriy-krop-top-na-bretelkakh/1.jpg",
+      "/images/products/siriy-krop-top-na-bretelkakh/2.jpg"
+    ]
+  },
+  {
+    "id": "svitlo-blakitni-dzhinsi-shavi",
+    "slug": "svitlo-blakitni-dzhinsi-shavi",
+    "name": "Світло-Блакитні Джинси Шаві",
+    "category": "jeans",
+    "gender": "women",
+    "collections": [
+      "new"
+    ],
+    "price": 1827,
+    "currency": "UAH",
+    "sizes": [
+      "34",
+      "36",
+      "38",
+      "40"
+    ],
+    "colors": [],
+    "colorCount": 0,
+    "images": [
+      "/images/products/svitlo-blakitni-dzhinsi-shavi/1.jpg",
+      "/images/products/svitlo-blakitni-dzhinsi-shavi/2.jpg"
+    ]
+  },
+  {
+    "id": "temno-korichneviy-krop-top",
+    "slug": "temno-korichneviy-krop-top",
+    "name": "Темно-Коричневий Кроп-Топ",
+    "category": "tops",
+    "gender": "women",
+    "collections": [
+      "new"
+    ],
+    "price": 680,
+    "currency": "UAH",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [],
+    "colorCount": 0,
+    "images": [
+      "/images/products/temno-korichneviy-krop-top/1.jpg",
+      "/images/products/temno-korichneviy-krop-top/2.jpg"
+    ]
+  },
+  {
+    "id": "zhovta-futbolka-dyubi",
+    "slug": "zhovta-futbolka-dyubi",
+    "name": "Жовта Футболка Дьюбі",
+    "category": "tshirts",
+    "gender": "women",
+    "collections": [
+      "new"
+    ],
+    "price": 649,
+    "currency": "UAH",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [],
+    "colorCount": 0,
+    "images": [
+      "/images/products/zhovta-futbolka-dyubi/1.jpg",
+      "/images/products/zhovta-futbolka-dyubi/2.jpg"
+    ]
+  },
+  {
+    "id": "zhovtiy-krop-top",
+    "slug": "zhovtiy-krop-top",
+    "name": "Жовтий Кроп-Топ",
+    "category": "tops",
+    "gender": "women",
+    "collections": [
+      "new"
+    ],
+    "price": 577,
+    "currency": "UAH",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [],
+    "colorCount": 0,
+    "images": [
+      "/images/products/zhovtiy-krop-top/1.jpg",
+      "/images/products/zhovtiy-krop-top/2.jpg"
     ]
   }
 ]

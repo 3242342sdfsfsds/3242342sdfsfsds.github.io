@@ -173,28 +173,108 @@ declare module 'astro:content' {
 };
 };
 "products": {
-"black-oversized-hoodie/product": {
-	id: "black-oversized-hoodie/product";
+"antratsitovi-dzhinsi-iz-visokoyu-talieyu/product": {
+	id: "antratsitovi-dzhinsi-iz-visokoyu-talieyu/product";
   collection: "products";
   data: any
 };
-"linen-trousers-beige/product": {
-	id: "linen-trousers-beige/product";
+"antratsitovi-dzhinsi-shavi/product": {
+	id: "antratsitovi-dzhinsi-shavi/product";
   collection: "products";
   data: any
 };
-"mens-oversized-tshirt/product": {
-	id: "mens-oversized-tshirt/product";
+"bezheva-futbolka/product": {
+	id: "bezheva-futbolka/product";
   collection: "products";
   data: any
 };
-"mens-straight-trousers/product": {
-	id: "mens-straight-trousers/product";
+"bili-dzhinsi-iz-visokoyu-talieyu/product": {
+	id: "bili-dzhinsi-iz-visokoyu-talieyu/product";
   collection: "products";
   data: any
 };
-"oversized-blazer-white/product": {
-	id: "oversized-blazer-white/product";
+"bordova-prozora-bluzka/product": {
+	id: "bordova-prozora-bluzka/product";
+  collection: "products";
+  data: any
+};
+"chorna-futbolka-dyubi/product": {
+	id: "chorna-futbolka-dyubi/product";
+  collection: "products";
+  data: any
+};
+"chorna-futbolka/product": {
+	id: "chorna-futbolka/product";
+  collection: "products";
+  data: any
+};
+"chorniy-bazoviy-krop-top/product": {
+	id: "chorniy-bazoviy-krop-top/product";
+  collection: "products";
+  data: any
+};
+"korichneva-prozora-bluzka/product": {
+	id: "korichneva-prozora-bluzka/product";
+  collection: "products";
+  data: any
+};
+"korichnevi-dzhinsi/product": {
+	id: "korichnevi-dzhinsi/product";
+  collection: "products";
+  data: any
+};
+"krizhani-dzhinsi-detali-visoka-posadka/product": {
+	id: "krizhani-dzhinsi-detali-visoka-posadka/product";
+  collection: "products";
+  data: any
+};
+"krizhano-blakitni-dzhinsi-z-visokoyu-talieyu/product": {
+	id: "krizhano-blakitni-dzhinsi-z-visokoyu-talieyu/product";
+  collection: "products";
+  data: any
+};
+"sini-dzhinsi-iz-visokoyu-talieyu-poterti/product": {
+	id: "sini-dzhinsi-iz-visokoyu-talieyu-poterti/product";
+  collection: "products";
+  data: any
+};
+"sini-dzhinsi-iz-visokoyu-talieyu-ta-gudzikami/product": {
+	id: "sini-dzhinsi-iz-visokoyu-talieyu-ta-gudzikami/product";
+  collection: "products";
+  data: any
+};
+"sini-dzhinsi-iz-visokoyu-talieyu/product": {
+	id: "sini-dzhinsi-iz-visokoyu-talieyu/product";
+  collection: "products";
+  data: any
+};
+"sini-dzhinsi-z-visokoyu-talieyu/product": {
+	id: "sini-dzhinsi-z-visokoyu-talieyu/product";
+  collection: "products";
+  data: any
+};
+"siriy-krop-top-na-bretelkakh/product": {
+	id: "siriy-krop-top-na-bretelkakh/product";
+  collection: "products";
+  data: any
+};
+"svitlo-blakitni-dzhinsi-shavi/product": {
+	id: "svitlo-blakitni-dzhinsi-shavi/product";
+  collection: "products";
+  data: any
+};
+"temno-korichneviy-krop-top/product": {
+	id: "temno-korichneviy-krop-top/product";
+  collection: "products";
+  data: any
+};
+"zhovta-futbolka-dyubi/product": {
+	id: "zhovta-futbolka-dyubi/product";
+  collection: "products";
+  data: any
+};
+"zhovtiy-krop-top/product": {
+	id: "zhovtiy-krop-top/product";
   collection: "products";
   data: any
 };
