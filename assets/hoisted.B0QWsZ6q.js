@@ -1,0 +1,1 @@
+import"./hoisted.Byh6F2l-.js";document.getElementById("sort-sel")?.addEventListener("change",d=>{const a=d.target.value,c=document.getElementById("pgrid"),t=Array.from(c.querySelectorAll(".product-card"));a==="asc"&&t.sort((e,r)=>+e.dataset.price-+r.dataset.price),a==="desc"&&t.sort((e,r)=>+r.dataset.price-+e.dataset.price),t.forEach(e=>c.appendChild(e))});
